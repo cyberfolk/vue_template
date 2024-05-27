@@ -1,0 +1,4 @@
+@use "sass:math";
+$HEIGHT_HEADER: 64px;
+$HEIGHT_FOOTER: 2rem;
+$HEIGHT_MAIN: calc(100vh - $HEIGHT_HEADER - $HEIGHT_FOOTER);

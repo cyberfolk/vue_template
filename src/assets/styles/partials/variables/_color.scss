@@ -1,0 +1,67 @@
+/******************************** 
+*  PALETTE: PERSONAL            *
+********************************/
+/* $accenture: # ; */
+/* $lightless: # ; */
+/* $darkless:  # ; */
+/* $lighter:   # ; */
+
+/******************************** 
+*  OVERRIDE: BOOTSTRAP          *
+********************************/
+$secondary: green;
+$primary: red;
+/* $accenture: #; */
+/* $secondary: # ; */
+/* $primary:   # ; */
+/* $muted:     # ; */
+/* $light:     # ; */
+/* $dark:      # ; */
+
+
+/******************************** 
+*  PALETTE: BOOTSTRAP           *
+* ----------------------------- *
+*  To create utility classes    * 
+*  enter here its relative      * 
+*  color                        *
+********************************/
+$theme-colors: (
+    "secondary": $secondary,
+    "warning": $warning,
+    "primary": $primary,
+    "success": $success,
+    "danger": $danger,
+    "light": $light,
+    "info": $info,
+    "dark": $dark,
+
+    /* PALETTE: PERSONAL */
+    /* $accenture: # ; */
+    /* $lightless: # ; */
+    /* $darkless:  # ; */
+    /* $lighter:   # ; */
+);
+
+/******************************** 
+*  BOOTSTAP Color variable      *
+* ----------------------------- *
+*  They exist and I can use     * 
+*  them, I just reported them.  * 
+********************************/
+$colors: (
+    "blue": $blue,
+    "indigo": $indigo,
+    "purple": $purple,
+    "pink": $pink,
+    "red": $red,
+    "orange": $orange,
+    "yellow": $yellow,
+    "green": $green,
+    "teal": $teal,
+    "cyan": $cyan,
+    "black": $black,
+    "white": $white,
+    "gray": $gray-600,
+    "gray-dark": $gray-800
+);
